@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Cheddar;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
